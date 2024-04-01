@@ -1,0 +1,19 @@
+
+.main{
+    width: 50%;
+}
+button{
+    border-radius: 10px !important ;
+    margin: 5% 0;
+}
+@media screen and (max-width: 700px){
+ .second-part{
+    padding: 10%;
+ }
+ .last-part{
+    padding:0;
+ }
+ button{
+    margin: 5% 0;
+}
+}
